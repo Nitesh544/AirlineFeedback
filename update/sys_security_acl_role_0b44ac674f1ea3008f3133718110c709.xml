@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_security_acl_role">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -15,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-12-16 14:34:45</sys_updated_on>
         <sys_user_role display_value="x_300454_air_feed.user" name="x_300454_air_feed.user">03446c674f1ea3008f3133718110c7ed</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>
